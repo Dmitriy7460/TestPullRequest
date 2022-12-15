@@ -210,6 +210,6 @@ cd <Name/>
 
 Перед первой отправкой, в случае если ветка с таким названием отсутствуют, необходимо выполнить одну из команд:
 ```
-git push --set upstream origin <...>
-git push -u origin <...>
+git push --set upstream origin <branch_name>
+git push -u origin <branch_name>
 ```
